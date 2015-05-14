@@ -16,6 +16,7 @@
 		CC3577B31B04A85B00D42CAD /* PositionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3577B21B04A85B00D42CAD /* PositionViewController.swift */; };
 		CC3577B51B04B96B00D42CAD /* OpacityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3577B41B04B96B00D42CAD /* OpacityViewController.swift */; };
 		CC3577B71B04BC9200D42CAD /* ScaleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3577B61B04BC9200D42CAD /* ScaleViewController.swift */; };
+		CC3577B91B04BF4600D42CAD /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3577B81B04BF4600D42CAD /* ColorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		CC3577B21B04A85B00D42CAD /* PositionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PositionViewController.swift; sourceTree = "<group>"; };
 		CC3577B41B04B96B00D42CAD /* OpacityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpacityViewController.swift; sourceTree = "<group>"; };
 		CC3577B61B04BC9200D42CAD /* ScaleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleViewController.swift; sourceTree = "<group>"; };
+		CC3577B81B04BF4600D42CAD /* ColorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				CC3577B21B04A85B00D42CAD /* PositionViewController.swift */,
 				CC3577B41B04B96B00D42CAD /* OpacityViewController.swift */,
 				CC3577B61B04BC9200D42CAD /* ScaleViewController.swift */,
+				CC3577B81B04BF4600D42CAD /* ColorViewController.swift */,
 				CC3577961B04A5C300D42CAD /* Main.storyboard */,
 				CC3577991B04A5C300D42CAD /* Images.xcassets */,
 				CC35779B1B04A5C300D42CAD /* LaunchScreen.xib */,
@@ -225,6 +228,7 @@
 				CC3577B71B04BC9200D42CAD /* ScaleViewController.swift in Sources */,
 				CC3577951B04A5C300D42CAD /* ViewController.swift in Sources */,
 				CC3577B51B04B96B00D42CAD /* OpacityViewController.swift in Sources */,
+				CC3577B91B04BF4600D42CAD /* ColorViewController.swift in Sources */,
 				CC3577931B04A5C300D42CAD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
