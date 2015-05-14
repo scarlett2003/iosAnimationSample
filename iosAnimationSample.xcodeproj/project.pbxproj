@@ -15,6 +15,7 @@
 		CC3577A91B04A5C300D42CAD /* iosAnimationSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3577A81B04A5C300D42CAD /* iosAnimationSampleTests.swift */; };
 		CC3577B31B04A85B00D42CAD /* PositionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3577B21B04A85B00D42CAD /* PositionViewController.swift */; };
 		CC3577B51B04B96B00D42CAD /* OpacityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3577B41B04B96B00D42CAD /* OpacityViewController.swift */; };
+		CC3577B71B04BC9200D42CAD /* ScaleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3577B61B04BC9200D42CAD /* ScaleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		CC3577A81B04A5C300D42CAD /* iosAnimationSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosAnimationSampleTests.swift; sourceTree = "<group>"; };
 		CC3577B21B04A85B00D42CAD /* PositionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PositionViewController.swift; sourceTree = "<group>"; };
 		CC3577B41B04B96B00D42CAD /* OpacityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpacityViewController.swift; sourceTree = "<group>"; };
+		CC3577B61B04BC9200D42CAD /* ScaleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				CC3577941B04A5C300D42CAD /* ViewController.swift */,
 				CC3577B21B04A85B00D42CAD /* PositionViewController.swift */,
 				CC3577B41B04B96B00D42CAD /* OpacityViewController.swift */,
+				CC3577B61B04BC9200D42CAD /* ScaleViewController.swift */,
 				CC3577961B04A5C300D42CAD /* Main.storyboard */,
 				CC3577991B04A5C300D42CAD /* Images.xcassets */,
 				CC35779B1B04A5C300D42CAD /* LaunchScreen.xib */,
@@ -219,6 +222,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC3577B31B04A85B00D42CAD /* PositionViewController.swift in Sources */,
+				CC3577B71B04BC9200D42CAD /* ScaleViewController.swift in Sources */,
 				CC3577951B04A5C300D42CAD /* ViewController.swift in Sources */,
 				CC3577B51B04B96B00D42CAD /* OpacityViewController.swift in Sources */,
 				CC3577931B04A5C300D42CAD /* AppDelegate.swift in Sources */,
